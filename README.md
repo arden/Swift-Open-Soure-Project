@@ -34,4 +34,5 @@ iOS Swift 开源库
 |[CircleProgressView](https://github.com/CardinalNow/iOS-CircleProgressView)|progress view|
 |[KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader)|网络图片异步加载|
 |[BlueCap](https://github.com/troystribling/BlueCap)|蓝牙通信|
-
+|[SwiftJSON](https://github.com/SwiftyJSON/SwiftyJSON)|json 解析库|
+|[Dollar.swift](https://github.com/ankurp/Dollar.swift)|函数式工具库|
